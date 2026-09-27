@@ -54,7 +54,7 @@ single Python process reading from and writing to the terminal.
 
 Requires **Python 3.8+** and nothing else — no `pip install` needed.
 
-git clone 
+git clone https://github.com/KartikeyaGuptaDS/Poker-roguelike/tree/main
 cd Poker-roguelike
 python3 main.py
 
