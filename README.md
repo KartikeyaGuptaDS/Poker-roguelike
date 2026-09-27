@@ -54,11 +54,11 @@ single Python process reading from and writing to the terminal.
 
 Requires **Python 3.8+** and nothing else — no `pip install` needed.
 
-'''bash
+```bash
 git clone <https://github.com/KartikeyaGuptaDS/Poker-roguelike/tree/main>
-cd Poker-roguelike
+cd <Poker-roguelike>
 python3 main.py
-'''
+```
 
 You'll be shown the rules, asked to pick a difficulty (White / Black /
 Gold), and then play turn by turn from the terminal prompts.
