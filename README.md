@@ -54,11 +54,9 @@ single Python process reading from and writing to the terminal.
 
 Requires **Python 3.8+** and nothing else — no `pip install` needed.
 
-```bash
-git clone <this-repository-url>
-cd <repository-folder>
+git clone 
+cd Poker-roguelike
 python3 main.py
-```
 
 You'll be shown the rules, asked to pick a difficulty (White / Black /
 Gold), and then play turn by turn from the terminal prompts.
@@ -104,3 +102,7 @@ Fig 2: Image of result after playing "Two Pair" hand
 ![Image of shop](screenshots/shop.png)
 
 Fig 3: Image of shop
+
+## AUTHOR
+Kartikeya Gupta
+26BCE10999
